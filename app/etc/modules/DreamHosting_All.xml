@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+  <modules>
+    <DreamHosting_Catalog>
+      <active>true</active>
+      <codePool>local</codePool>
+    </DreamHosting_Catalog>
+  </modules>
+</config>

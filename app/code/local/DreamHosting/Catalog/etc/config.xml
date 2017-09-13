@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<config>
+  <modules>
+    <DreamHosting_Catalog>
+      <version>1.0</version>
+    </DreamHosting_Catalog>
+  </modules>
+   
+  <global>
+    <models>
+      <catalog>
+        <rewrite>
+          <category>DreamHosting_Catalog_Model_Product</category>
+        </rewrite>
+      </catalog>
+    </models>
+  </global>
+</config>
