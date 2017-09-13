@@ -10,7 +10,7 @@
     <models>
       <catalog>
         <rewrite>
-          <category>DreamHosting_Catalog_Model_Product</category>
+          <product>DreamHosting_Catalog_Model_Product</product>
         </rewrite>
       </catalog>
     </models>
